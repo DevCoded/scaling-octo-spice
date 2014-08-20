@@ -1,0 +1,25 @@
+/* Name: Lauvely 
+Date: August, 20th 2014 
+¿What does? constant sum
+*/
+
+//Librerias
+
+# include <stdio.h>
+
+//main
+
+main(){
+
+   int num1=1;
+   int num2=2;
+   int res=0;
+   
+   res = num1 + num2;
+   
+   printf( "\n\n\t El resultado de %i + %i = %i", num1, num2, res);
+   
+   
+   }
+   
+   
