@@ -11,15 +11,21 @@ Date: August, 20th 2014
 
 main(){
 
-   int num1=1;
-   int num2=2;
+   int num1=10;  //Declaración de variables
+   int num2=30;
    int res=0;
    
+   //Operación
    res = num1 + num2;
    
+   //Impresión
    printf( "\n\n\t El resultado de %i + %i = %i", num1, num2, res);
    
    
    }
    
    
+*************************************************************************
+Imprime lo siguiente 
+
+El resultado de 10 + 30 = 40
